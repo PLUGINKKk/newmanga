@@ -1,1 +1,1 @@
-[{"photo":"https://i.ytimg.com/vi/jaPbIhnNaW0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzVHlwXhOM5G5mTrdH-CIJJe2M1w","links":"https://www.youtube.com/watch?v=jaPbIhnNaW0"}]
+[{"photo":"https://github.com/PLUGINKKk/newmanga/raw/main/Screenshot_2022-01-18-22-16-26-86_be80aec1db9a2b53c9d399db0c602181.jpg","links":"https://github.com/PLUGINKKk/newmanga/raw/main/Screenshot_2022-01-18-22-16-26-86_be80aec1db9a2b53c9d399db0c602181.jpg"}]
